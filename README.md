@@ -1,8 +1,8 @@
-### Hi there 👋
-**ArcarnjoMiguelOFC/ArcarnjoMiguelOFC**
-- 🔭 I’m currently working on ... BIDDING ANALYST
-- 🌱 I’m currently learning ... Programming in HTML; PHP; PYTHON; C++; JAVASCRIPT
-- 🤔 I’m looking for help with ... software development and programming
-- 💬 Ask me about ... programming language
-- 📫 How to reach me: ... Victormello792@gmail.com 
-- ⚡ Fun fact: ... building a career in programming always seeking new knowledge and interactions
+Olá 👋
+ArcarnjoMiguelOFC/ArcarnjoMiguelOFC
+
+🔭 Atualmente estou trabalhando como ANALISTA DE LICITAÇÃO
+🌱 Atualmente estou aprendendo desenvolver em HTML5; CSS3; JAVASCRIPT; JAVA ;
+🤔 Procuro ajuda com... desenvolvimento e programação de software
+📫 Como entrar em contato comigo:Victormello792@gmail.com
+⚡ Curiosidade: construindo carreira em programação sempre buscando novos conhecimentos e interações
